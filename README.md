@@ -1,5 +1,28 @@
 # Practicar
-Repositorio pa practicar github
+
 ---
-#>holiiii
-##salis3
+
+## Repositorio pa practicar github
+
+---
+
+### holiiii
+
+---
+
+### salis3
+
+---
+
+1. hola
+2. que tal?
+3. adios
+
+---
+
+> lista de la compra
+
+- huevos
+- leche
+- miel
+- galletas
