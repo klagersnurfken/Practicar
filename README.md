@@ -27,10 +27,10 @@
 - miel
 - galletas
 
-```
+```json:
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Tomi",
+  "lastName": "Perez",
+  "age": 26
 }
 ```
