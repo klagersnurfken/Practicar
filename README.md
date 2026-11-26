@@ -26,3 +26,11 @@
 - leche
 - miel
 - galletas
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
